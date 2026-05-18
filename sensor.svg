@@ -1,0 +1,10 @@
+<!-- SENSOR ICON -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="22" y="22" width="20" height="20" rx="4" stroke="#EDEDED" stroke-width="1.4"/>
+  <path d="M32 14V20" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M32 44V50" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M14 32H20" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M44 32H50" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M18 18L22 22" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M42 42L46 46" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

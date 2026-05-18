@@ -1,0 +1,7 @@
+<!-- VOICE ICON -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="27" y="16" width="10" height="20" rx="5" stroke="#EDEDED" stroke-width="1.4"/>
+  <path d="M22 31C22 36.5 26.5 41 32 41C37.5 41 42 36.5 42 31" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M32 41V48" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M27 48H37" stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

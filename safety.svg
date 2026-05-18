@@ -1,0 +1,12 @@
+<!-- SAFETY ICON -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M32 14L46 20V30C46 40 39.5 47 32 50C24.5 47 18 40 18 30V20L32 14Z"
+        stroke="#EDEDED"
+        stroke-width="1.4"
+        stroke-linejoin="round"/>
+  <path d="M27 32L31 36L38 28"
+        stroke="#EDEDED"
+        stroke-width="1.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
